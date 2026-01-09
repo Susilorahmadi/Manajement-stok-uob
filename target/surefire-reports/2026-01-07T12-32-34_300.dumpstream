@@ -1,0 +1,5 @@
+# Created at 2026-01-07T12:32:36.687
+Boot Manifest-JAR contains absolute paths in classpath 'D:\INDOCYBER\client\UOB\manajement-stok\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

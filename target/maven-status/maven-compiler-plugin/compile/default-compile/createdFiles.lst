@@ -1,0 +1,16 @@
+com\example\stok\service\StoreService.class
+com\example\stok\dto\ItemDto$ItemDtoBuilder.class
+com\example\stok\model\Order.class
+com\example\stok\model\Item.class
+com\example\stok\model\Order$OrderBuilder.class
+com\example\stok\exception\GlobalExceptionHandler.class
+com\example\stok\model\Inventory$InventoryBuilder.class
+com\example\stok\repository\InventoryRepository.class
+com\example\stok\repository\ItemRepository.class
+com\example\stok\model\Inventory.class
+com\example\stok\exception\InsufficientStockException.class
+com\example\stok\model\Item$ItemBuilder.class
+com\example\stok\dto\ItemDto.class
+com\example\stok\controller\ApiController.class
+com\example\stok\StokApplication.class
+com\example\stok\repository\OrderRepository.class
